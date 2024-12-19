@@ -1,0 +1,6 @@
+&bands 
+outdir ='./tmp' 
+prefix='siO2' 
+filband='siO2.band' 
+lsym= .true. 
+/ 
